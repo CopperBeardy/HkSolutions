@@ -1,0 +1,12 @@
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.exe
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.deps.json
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.json
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.runtimeconfig.dev.json
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\bin\Debug\netcoreapp3.0\Diagonal Difference.pdb
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.csprojAssemblyReference.cache
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.AssemblyInfo.cs
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.dll
+C:\Projects\HackerRankSolutions_Copperbeardy\HackerRankSolutions_Copperbeardy\Diagonal Difference\obj\Debug\netcoreapp3.0\Diagonal Difference.pdb

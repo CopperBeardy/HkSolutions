@@ -1,0 +1,7 @@
+C:\Projects\JumpingOnClouds\bin\Debug\JumpingOnClouds.exe.config
+C:\Projects\JumpingOnClouds\bin\Debug\JumpingOnClouds.exe
+C:\Projects\JumpingOnClouds\bin\Debug\JumpingOnClouds.pdb
+C:\Projects\JumpingOnClouds\obj\Debug\JumpingOnClouds.csprojAssemblyReference.cache
+C:\Projects\JumpingOnClouds\obj\Debug\JumpingOnClouds.csproj.CoreCompileInputs.cache
+C:\Projects\JumpingOnClouds\obj\Debug\JumpingOnClouds.exe
+C:\Projects\JumpingOnClouds\obj\Debug\JumpingOnClouds.pdb

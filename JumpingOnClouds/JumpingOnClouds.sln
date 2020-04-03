@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnClouds", "JumpingOnClouds.csproj", "{690F3BE8-FC82-4D2F-854A-724B69040E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690F3BE8-FC82-4D2F-854A-724B69040E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F3BE8-FC82-4D2F-854A-724B69040E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F3BE8-FC82-4D2F-854A-724B69040E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F3BE8-FC82-4D2F-854A-724B69040E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78B7DA3-BB11-45A8-BE64-86C3C647BD36}
+	EndGlobalSection
+EndGlobal

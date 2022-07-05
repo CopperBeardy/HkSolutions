@@ -1,1 +1,1 @@
-HkSolutions
+C# code solutions for HackerRank
